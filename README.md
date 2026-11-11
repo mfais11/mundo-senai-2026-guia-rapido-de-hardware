@@ -10,5 +10,4 @@
 * Demonstração prática dos componentes e do guia interativo em tempo real durante o atendimento aos visitantes no estande.
 
 ## Mídias e Materiais
-* **Fotos e Legendas:**
 ![Apresentação do projeto](fotos/apresentando_guia_hardware.jpg) Demonstração do "Guia Rápido de Hardware" e explicação dos componentes para os visitantes no estande montado com os componentes físicos de hardware e o guia em exibição na tela.
