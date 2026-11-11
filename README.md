@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Guia Rápido de Hardware - Mundo SENAI 2026
 
 ## Sobre a Apresentação
@@ -11,3 +13,5 @@
 
 ## Mídias e Materiais
 ![Apresentação do projeto](fotos/apresentando_guia_hardware.jpg) Demonstração do "Guia Rápido de Hardware" e explicação dos componentes para os visitantes no estande montado com os componentes físicos de hardware e o guia em exibição na tela.
+
+</div>
