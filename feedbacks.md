@@ -7,11 +7,11 @@
 * **Docente / Orientador:** "Foi o melhor ano de Mundo SENAI que eu já vi!"
 * **Coordenadora / Diretor:** "Muito bom. Parabéns pelo projeto!."
 
-## O que funcionou bem
+## O que funcionou bem..
 * A interação direta com as peças físicas chamou a atenção dos visitantes.
 * A explicação em linguagem simples facilitou o entendimento de quem não conhece de informática.
 
-## O que eu mudaria 
+## O que eu mudaria..
 * Adicionaria mais peças de hardware para demonstração física (ex: placa de vídeo dedicada).
 * Colocaria um cartaz com QR Code no estande para direcionar o público diretamente ao site interativo.
 
