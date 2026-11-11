@@ -11,4 +11,4 @@
 
 ## Mídias e Materiais
 * **Fotos e Legendas:**
-![Apresentação do projeto](fotos/apresentando_guia_hardware.jpg) Demonstração do Guia Rápido de Hardware e explicação dos componentes para os visitantes com o estande montado com os componentes físicos de hardware e o guia em exibição na tela.
+![Apresentação do projeto](fotos/apresentando_guia_hardware.jpg) Demonstração do "Guia Rápido de Hardware" e explicação dos componentes para os visitantes no estande montado com os componentes físicos de hardware e o guia em exibição na tela.
