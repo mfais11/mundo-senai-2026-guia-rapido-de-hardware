@@ -3,7 +3,7 @@
 # Guia Rápido de Hardware - Mundo SENAI 2026
 
 ## Sobre a Apresentação
-* **O que foi apresentado:** Uma apresentação e guia prático interativo sobre peças e componentes de computadores (placa-mãe, processador, memória RAM, armazenamento e fonte), explicando a função de cada item com linguagem simples e visual.
+* **O que foi apresentado:** Uma apresentação e guia prático interativo sobre peças e componentes de computadores (placa-mãe, processador, cooler, memória RAM, armazenamento, gabinete, placa de vídeo, periféricos e fonte), explicando a função de cada item com linguagem simples e visual.
 * **Público-alvo:** Visitantes da comunidade, estudantes de outras turmas e docentes do SENAI.
 * **Meu papel:** Responsável pela estruturação do conteúdo explicativo, organização da interface no estande e apresentação prática das peças físicas e do sistema para os visitantes.
 
