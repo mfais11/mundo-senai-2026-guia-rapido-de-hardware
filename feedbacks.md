@@ -5,7 +5,7 @@
 ## O que os visitantes, colegas e docentes disseram..
 * **Visitante / Colega:** "A apresentação foi muito boa porque deu para compreender o que é hardware. Foi uma ótima escolha utilizar um PC como exemplificação, no qual auxiliou a explicação de hardware e da função de cada componente de um jeito super fácil e prático."
 * **Docente / Orientador:** "Foi o melhor ano de Mundo SENAI que eu já vi!"
-* **Coordenadora / Diretor:** "Muito bom. Parabéns pelo projeto!."
+* **Coordenadora / Diretor:** "Muito bom. Parabéns pelo projeto!"
 
 ## O que funcionou bem..
 * A interação direta com as peças físicas chamou a atenção dos visitantes.
